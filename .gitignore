@@ -1,0 +1,12 @@
+plugins/maglev/
+plugins/tmux-battery/
+plugins/tmux-continuum/
+plugins/tmux-copycat/
+plugins/tmux-cpu/
+plugins/tmux-open/
+plugins/tmux-pain-control/
+plugins/tmux-prefix-highlight/
+plugins/tmux-resurrect/
+plugins/tmux-sensible/
+plugins/tmux-yank/
+resurrect/
